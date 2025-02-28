@@ -1,4 +1,4 @@
-Country Name,Country Code,Year,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",Ratio of female to male labor force participation rate (%) (modeled ILO estimate),"Unemployment, total (% of total labor force) (modeled ILO estimate)"
+Country,Code,Year,Labor_Participation,Female_Male_Ratio,Unemployment_Rate
 Canada,CAN,1991,76.618,77.8653018246765,10.32
 Canada,CAN,1992,75.774,78.3106754048638,11.2
 Canada,CAN,1993,75.536,78.6522984586005,11.38
